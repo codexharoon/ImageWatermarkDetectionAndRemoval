@@ -51,7 +51,7 @@ A MATLAB-based project designed to **add, detect, and remove invisible watermark
 ---
 
 ## 👩‍💻 Team Members  
-- **Muhammad Haroon** - *Software Engineering Student*  
+- **Muhammad Haroon** - *Software Engineer*  
 - **Muhammad Manaal Saeed**
 - **Syed Muhammad Rafey Hassni**
 
