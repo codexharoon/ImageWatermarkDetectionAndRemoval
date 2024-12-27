@@ -34,7 +34,6 @@ A MATLAB-based project designed to **add, detect, and remove invisible watermark
 1. **Clone the Repository**  
    ```bash  
    git clone https://github.com/codexharoon/ImageWatermarkDetectionAndRemoval.git  
-   cd watermark-system
 
 ## 🛠️ Run the Project in MATLAB  
 1. Open the project in MATLAB.  
