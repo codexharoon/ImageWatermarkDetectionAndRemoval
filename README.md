@@ -4,6 +4,10 @@ A MATLAB-based project designed to **add, detect, and remove invisible watermark
 
 ---
 
+![Screenshot 2024-12-28 013646](https://github.com/user-attachments/assets/3e356bca-d246-45af-8edd-d7ae3276ea45)
+
+---
+
 ## ✨ Features  
 - **Embed Watermarks**: Add invisible watermarks to protect intellectual property.  
 - **Detect Watermarks**: Extract embedded watermarks for verification.  
